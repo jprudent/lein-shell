@@ -23,7 +23,7 @@ have no `:plugins` vector in your `project.clj`, it should look like this:
 ```clj
 (defproject your-project-here "version"
  ...
- :plugins [[lein-shell "0.4.2"]]
+ :plugins [[lein-shell "0.5.0"]]
  ...)
 ```
 
